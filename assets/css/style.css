@@ -304,8 +304,9 @@ nav {
 /* hero */
 header {
   min-height: 100vh;
-  background: linear-gradient(rgba(63, 208, 212, 0.5), rgba(0, 0, 0, 0.7)),
-    url(/assets/img/banner2.png) center/cover no-repeat;
+  background-image:url(/assets/img/banner2-3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .banner {
   min-height: 100vh;
@@ -404,11 +405,11 @@ footer p {
 }
 
 /* image del estudio home */
-
+/* 
 .imagenEstudio{
   min-height: 100vh;
   background: url(/assets/img/banner3.png) center/cover no-repeat;
-}
+} */
 
 /* galeriaFotos */
 .containerF{
