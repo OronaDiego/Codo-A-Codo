@@ -304,7 +304,7 @@ nav {
 /* hero */
 header {
   min-height: 100vh;
-  background-image:url(/assets/img/banner2-3.png);
+  background-image: url(/assets/img/banner2-3.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -404,12 +404,6 @@ footer p {
   animation: bounce 1s ease-in-out;
 }
 
-/* image del estudio home */
-/* 
-.imagenEstudio{
-  min-height: 100vh;
-  background: url(/assets/img/banner3.png) center/cover no-repeat;
-} */
 
 /* galeriaFotos */
 .containerF{
