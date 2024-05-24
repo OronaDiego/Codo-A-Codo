@@ -407,7 +407,7 @@ footer p {
 
 .imagenEstudio{
   min-height: 100vh;
-  background: url(./assets/img/banner3.jpg) center/cover no-repeat;
+  background: url(/assets/img/banner3.jpg) center/cover no-repeat;
 }
 
 /* galeriaFotos */
