@@ -305,14 +305,9 @@ nav {
 header {
   min-height: 100vh;
   background: linear-gradient(rgba(63, 208, 212, 0.5), rgba(0, 0, 0, 0.7));
-
-  /* el codigo a continuacion no lo pude implementar me daba error 404
-    en el liveServer me funcinaba bien pero cuando lo subi a GitHub me arrojaba ese eror
-  */
-     
-  /* background-image:url(/assets/img/bannerPrincipal.png);
+  background-image:url(../img/bannerPrincipal.png);
   background-repeat: no-repeat;
-  background-size: cover; */
+  background-size: cover; 
 }
 .banner {
   min-height: 100vh;
